@@ -1,5 +1,6 @@
 # AngularGuards
 
+Proyecto educacional en el que protejemos rutas de la aplicación mediante el uso de un guard de angular.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
 
 ## Development server
